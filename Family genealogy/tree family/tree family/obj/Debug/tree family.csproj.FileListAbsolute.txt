@@ -1,0 +1,98 @@
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\bin\Debug\tree family.exe.config
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\bin\Debug\tree family.exe
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\bin\Debug\tree family.pdb
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree family.csprojResolveAssemblyReference.cache
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.add_person.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.Form1.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.Properties.Resources.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree family.csproj.GenerateResource.Cache
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree family.exe
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree family.pdb
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.marid_person.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.born_child.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.change_name.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.ubdate_info.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.Change__brithday.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.change__SSN.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.chang_dadtime.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.dead_person.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.Divorce.resources
+C:\Users\Mirabdollah\Desktop\project window\tree family\tree family\obj\Debug\tree_family.find_Relation.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree family.exe
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree family.pdb
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree family.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.add_person.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.born_child.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.Change__brithday.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.change__SSN.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.change_name.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.chang_dadtime.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.dead_person.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.Divorce.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.find_Relation.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.Form1.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.marid_person.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.Properties.Resources.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree_family.ubdate_info.resources
+C:\Users\ASUS\Desktop\project window\tree family\tree family\obj\Debug\tree family.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\tree family.exe.config
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\tree family.exe
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\tree family.pdb
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\mscorlib.dll
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\normidna.nlp
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\normnfc.nlp
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\normnfd.nlp
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\normnfkc.nlp
+C:\Users\ASUS\Desktop\project window\tree family\tree family\bin\Debug\normnfkd.nlp
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\tree family.exe.config
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\tree family.exe
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\tree family.pdb
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\mscorlib.dll
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\normidna.nlp
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\normnfc.nlp
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\normnfd.nlp
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\normnfkc.nlp
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\bin\Debug\normnfkd.nlp
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree family.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.add_person.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.born_child.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.Change__brithday.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.change__SSN.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.change_name.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.chang_dadtime.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.dead_person.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.Divorce.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.find_Relation.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.Form1.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.marid_person.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree_family.ubdate_info.resources
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree family.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree family.exe
+C:\Users\ASUS\Desktop\ptojects\project window\tree family\tree family\obj\Debug\tree family.pdb
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\tree family.exe.config
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\tree family.exe
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\tree family.pdb
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\mscorlib.dll
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\normidna.nlp
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\normnfc.nlp
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\normnfd.nlp
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\normnfkc.nlp
+E:\university\ptojects\project window\tree family\tree family\bin\Debug\normnfkd.nlp
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree family.csprojResolveAssemblyReference.cache
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.add_person.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.born_child.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.Change__brithday.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.change__SSN.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.change_name.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.chang_dadtime.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.dead_person.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.Divorce.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.find_Relation.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.Form1.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.marid_person.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.Properties.Resources.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree_family.ubdate_info.resources
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree family.csproj.GenerateResource.Cache
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree family.exe
+E:\university\ptojects\project window\tree family\tree family\obj\Debug\tree family.pdb
